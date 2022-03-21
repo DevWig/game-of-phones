@@ -1,9 +1,17 @@
+/* COLOR PALETTE
+Dodger Blue: #279AF1
+Maximum Yellow Red: #FFC759
+Old Lavender: #766C7F
+Rich Black FOGRA 39: #080708 */
+
+
 .App {
   text-align: center;
+  background: #279AF1;
 }
 
-.App-logo {
-  height: 40vmin;
+.nav-bar-logo {
+  width: 75px;
   pointer-events: none;
 }
 
